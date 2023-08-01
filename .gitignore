@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Image Folder
+
+images/*
+images_bw/*
+*.jpg
